@@ -32,5 +32,5 @@ An abandoned space is an area at HSBNE that is not managed by a team or the Exec
 * The Executive may begin liquidating the items from the space at their discretion. 
 
 ## Other
-### Items that are tool large to be stored
-Items that are too large to be stored should be consolidated as much as possible so that they take up a minimal footprint.
+### Items that are too large to be stored
+Items that are too large to be stored should be consolidated as much as possible so that they take up a minimal footprint. E.g. a tablesaw is too large to be sotred but could be moved to a corner.
