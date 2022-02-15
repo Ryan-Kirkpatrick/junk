@@ -29,7 +29,7 @@ An abandoned space is an area at HSBNE that is not managed by a team or the Exec
 * Existing or new teams can claim the area freely. Where more than one team wishes to claim the space a motion shall be put forward at a general meeting to decide.
 
 ### 240 days after the space is downsized
-* The Executive may begin liquidating the items from the space at their discretion. 
+* The Executive may begin liquidating the items from the space at their discretion by passing an Executive vote. 
 
 ## Other
 ### Items that are too large to be stored
